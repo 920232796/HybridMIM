@@ -1,2 +1,2 @@
 # mp-ssl
-The ml-ssl,  a masked-region perception multi-task self supervised learning method.
+The mp-ssl,  a masked-region perception multi-task self supervised learning method.
